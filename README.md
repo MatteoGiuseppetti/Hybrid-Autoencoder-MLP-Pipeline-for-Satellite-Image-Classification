@@ -6,7 +6,7 @@ Questo progetto implementa e valuta un Autoencoder Convoluzionale supervisionato
 
 Questo repository è organizzato in due sezioni per facilitare la consultazione: 
 
-* 📄 **[Leggi il Report Completo (No Lag)](Report/Hybrid_autoencoder–MLP_pipeline_for_satellite_image_classification.md)**
+*  **[Leggi il Report Completo (No Lag)](Report/Hybrid_autoencoder–MLP_pipeline_for_satellite_image_classification.md)**
     * *Versione consigliata per la lettura:* include tutti i grafici, le analisi e i commenti in formato web veloce, senza dover scaricare nulla.
 
 * **[Vai al Codice Sorgente (Jupyter)](Code/Hybrid_autoencoder–MLP_pipeline_for_satellite_image_classification.ipynb)**
