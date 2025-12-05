@@ -1,6 +1,16 @@
 # Hybrid Autoencoder–MLP Pipeline for Satellite Image Classification
 
-Questo progetto implementa e valuta un Autoencoder Convoluzionale supervisionato per la classificazione di immagini satellitari[cite: 6, 10]. [cite_start]L'obiettivo principale è utilizzare l'encoder come estrattore di feature e addestrare un classificatore MLP sulle rappresentazioni latenti.
+Questo progetto implementa e valuta un Autoencoder Convoluzionale supervisionato per la classificazione di immagini satellitari. L'obiettivo principale è utilizzare l'encoder come estrattore di feature e addestrare un classificatore MLP sulle rappresentazioni latenti.
+
+## Esplora il Progetto
+
+Questo repository è organizzato in due sezioni per facilitare la consultazione:
+
+* 📄 **[Leggi il Report Completo (No Lag)](report/Analisi_Completa.md)**
+    * *Versione consigliata per la lettura:* include tutti i grafici, le analisi e i commenti in formato web veloce, senza dover scaricare nulla.
+
+* 💻 **[Vai al Codice Sorgente (Jupyter)](code/Satellite_Project.ipynb)**
+    * *Versione per sviluppatori:* scarica o visualizza il file `.ipynb` originale per eseguire il codice.
 
 ## Obiettivi del Progetto
 * Progettare un autoencoder convoluzionale per il dataset EuroSAT.
